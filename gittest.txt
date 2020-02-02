@@ -1,0 +1,2 @@
+a new git test txt
+a second it test text
